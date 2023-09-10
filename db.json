@@ -1,0 +1,85 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "username": "sasmita",
+      "email": "sasmita@datu.com",
+      "password": "Aim@2023",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "username": "abhay",
+      "email": "abhay@datu.com",
+      "password": "Aim@2023",
+      "isAdmin": true
+    },
+    {
+      "id": 3,
+      "username": "tanmay",
+      "email": "tanmay@xyz.com",
+      "password": "Aim@2023",
+      "isAdmin": false
+    },
+    {
+      "id": 4,
+      "username": "soumaya",
+      "email": "soumaya@xyz.com",
+      "password": "Aim@2023",
+      "isAdmin": false
+    },
+    {
+      "id": 5,
+      "username": "amulya",
+      "email": "amulya@xyz.com",
+      "password": "Aim@2023",
+      "isAdmin": true
+    },
+    {
+      "id": 6,
+      "username": "partha",
+      "email": "partha@xyz.com",
+      "password": "Aim@2023",
+      "isAdmin": false
+    },
+    {
+      "id": 7,
+      "username": "biswa",
+      "email": "biswa@lals.com",
+      "password": "Aim@2023",
+      "isAdmin": true
+    }
+  ],
+  "skills": [
+    {
+      "calendar": "2023-08-10",
+      "skills": "java",
+      "status": "pool",
+      "id": 1
+    },
+    {
+      "calendar": "2023-08-10",
+      "skills": "sdds",
+      "status": "angular",
+      "id": 2
+    },
+    {
+      "calendar": "2023-08-10",
+      "skills": "java",
+      "status": "pool",
+      "id": 3
+    },
+    {
+      "calendar": "2023-08-28",
+      "skills": "angular",
+      "status": "angular",
+      "id": 4
+    },
+    {
+      "calendar": "2023-08-28",
+      "skills": "java",
+      "status": "pool",
+      "id": 5
+    }
+  ]
+}
